@@ -1,4 +1,4 @@
 - [x] Setup do banco de dados
-- [ ] Sedding do banco de dados
-- [ ] Tailwind e Shadcn
-- [ ] Git hooks
+- [x] Sedding do banco de dados
+- [x] Tailwind e Shadcn
+- [x] Git hooks
